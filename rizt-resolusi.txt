@@ -3,3 +3,4 @@ RIZT RESOLUSI
 -bisa pemrograman
 -kuliah s1 
 -membuat aplikasi database
+-oalahraga teratur minimal seminggu sekali
