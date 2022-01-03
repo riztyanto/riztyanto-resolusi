@@ -2,3 +2,4 @@ RIZT RESOLUSI
 -istiqomah sholat tahajud
 -bisa pemrograman
 -kuliah s1 
+-membuat aplikasi database
