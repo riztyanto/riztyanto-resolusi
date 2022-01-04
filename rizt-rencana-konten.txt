@@ -1,0 +1,6 @@
+RENCANA KONTEN RIZT
+-database andalalin
+  *data permohonan
+  *file persyaratan
+-website andallain
+-aplikasi java andalalin
